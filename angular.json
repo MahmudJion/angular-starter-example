@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "angular-starter-example"
+  "defaultProject": "angular-starter-example",
+  "cli": {
+    "analytics": false
+  }
 }
