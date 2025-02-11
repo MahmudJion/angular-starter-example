@@ -147,6 +147,9 @@
       "element",
       "app",
       "kebab-case"
-    ]
+    ],
+    "no-duplicate-imports": true,
+    "prefer-const": true,
+    "no-unused-variable": true
   }
 }
