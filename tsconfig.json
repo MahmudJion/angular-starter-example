@@ -19,7 +19,11 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "skipLibCheck": true,
+    "strictBindCallApply": true,
+    "strictFunctionTypes": true,
+    "strictPropertyInitialization": true
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
